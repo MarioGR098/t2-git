@@ -1,8 +1,10 @@
 h2{
     color: brown;
+    text-align: center;
 }
 
 
 p{
-    color: green;
+    color: orangered;
+    text-align: right;
 }
